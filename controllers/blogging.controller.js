@@ -23,3 +23,17 @@ exports.composeActionPage = (req, res)=>{
     res.redirect("/");
 };
 
+exports.dynamicRoutes = (req, res)=>{
+    var tittle = _.lowerCase(req.params.postName);
+    posts.forEach(post => {
+        let storedTittle = _.lowerCase(post.tittle);
+        if(storedTittle === tittle){
+            res.render("post", {
+                req_tittle: post.tittle,
+                req_content: post.content
+            });
+        }
+    });
+   
+}
+

@@ -1,7 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const ejs = require("ejs");
-// const {lowerCase} = require("loadash");
+global._ = require("lodash");
 const Port = process.env.PORT | 3000;
 const routes = require('./routes/router');
 

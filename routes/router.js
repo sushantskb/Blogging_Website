@@ -8,5 +8,6 @@ app.get("/about", blogController.aboutPage);
 app.get("/contact", blogController.contactPage);
 app.get("/compose", blogController.composePage);
 app.post("/compose", blogController.composeActionPage);
+app.get("/posts/:postName", blogController.dynamicRoutes);
 
 module.exports = app;
