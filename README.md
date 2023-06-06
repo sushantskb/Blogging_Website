@@ -14,7 +14,7 @@ A blog, short for weblog, is a frequently updated web page used for personal com
 
 
 # Screenshots
-##Home
+Home
 ![home](https://github.com/sushantskb/Blogging_Website/assets/91365425/f0139854-bdb2-4f18-bc6d-af196d3b25b7)
 
 
