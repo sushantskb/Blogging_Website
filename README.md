@@ -18,6 +18,9 @@ Home
 ![home](https://github.com/sushantskb/Blogging_Website/assets/91365425/f0139854-bdb2-4f18-bc6d-af196d3b25b7)
 
 Compose
+![compose](https://github.com/sushantskb/Blogging_Website/assets/91365425/654bd833-79d4-471b-86bd-83a794d480a9)
 
+Dynamic Routing
+![dynamic](https://github.com/sushantskb/Blogging_Website/assets/91365425/5854cfd2-e02e-44fc-aa19-92328a7fb237)
 
 
