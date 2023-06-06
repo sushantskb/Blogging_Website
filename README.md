@@ -8,11 +8,11 @@ A blog, short for weblog, is a frequently updated web page used for personal com
         They are a great way to generate fresh content on a website and provide a catalyst for email marketing, social 
         media promotion to drive search traffic to your website.
 
-## Deployment
+# Deployment
+    ##Live Link :
+        https://blogger-vebt.onrender.com
 
 
-
-
-## Screenshots
+# Screenshots
 
 
